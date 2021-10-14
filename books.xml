@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<catalogs>
+    <catalog id="technical_books" name="Technical Books">
+        <book id="tb001">
+            <ISBN>978-93-8067-432-2</ISBN>
+            <title>Client Server Computing</title>
+            <author>Sharad Kumar Verma </author>
+        </book>
+        <book id="tb002">
+            <ISBN>978-0984782857</ISBN>
+            <title>Cracking the Coding Interview: 189 Programming Questions and Solutions</title>
+            <author>978-0984782857</author>
+        </book>
+    </catalog>
+    <catalog id="cookery_books" name="Cookery Books">
+        <book id="cb001">
+            <ISBN>978 717106837</ISBN>
+            <title>Irish Countryhouse cooking</title>
+            <author>Gill & Macmillan</author>
+        </book>
+        <book id="tb002">
+            <ISBN> 9781982168018</ISBN>
+            <title>Taste: My Life Through Food</title>
+            <author>Stanley Tucci</author>
+        </book>
+    </catalog>
+</catalogs>
