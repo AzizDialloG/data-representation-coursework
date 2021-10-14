@@ -15,8 +15,8 @@
     <catalog id="cookery_books" name="Cookery Books">
         <book id="cb001">
             <ISBN>978 717106837</ISBN>
-            <title>Irish Countryhouse cooking</title>
-            <author>Gill & Macmillan</author>
+            <title>Irish Countryhouse Cooking</title>
+            <author>Gill and Macmillan</author>
         </book>
         <book id="tb002">
             <ISBN> 9781982168018</ISBN>
